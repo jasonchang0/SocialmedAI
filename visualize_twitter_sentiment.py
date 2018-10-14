@@ -8,7 +8,8 @@ style.use("fivethirtyeight")
 fig = plt.figure()
 ax1 = fig.add_subplot(1, 1, 1)
 
-dir = '/Users/jasonchang/Desktop/PycharmProjects/natural-language-processing/'
+dir = '/Users/jasonchang/Desktop/PycharmProjects/hackathon-materials/'
+
 
 def animate(i):
     pullData = open(dir + 'twitter_output.txt', 'r').read()
@@ -32,9 +33,13 @@ def animate(i):
 
     ax1.clear()
     ax1.plot(xar, yar)
+    # print('{} \n {}'.format(xar, yar))
 
 
 ani = animation.FuncAnimation(fig, animate, interval=1000)
 plt.show()
+
+
+
 
 

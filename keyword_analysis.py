@@ -1,3 +1,4 @@
+import nltk
 import pandas as pd
 import numpy as np
 import scipy as sp
@@ -75,7 +76,23 @@ class Profile:
 
             if factor == 'text':
                 word_lst = word_tokenize(row[factor])
-                word_lst = [x for x in word_lst if x != '#' and x != '@']
+                tagged = nltk.pos_tag(word_lst)
+
+                # chunkGram = r"""Chunk: {<RB.?>*<VB.?>*<NNP>+<NN>?}"""
+                chunkGram = r"""Chunk: {<.*>+}
+                                        }<VB.?|IN|DT>+{"""
+                # {} => inclusion, }{ -> exclusion
+
+                chunkParser = nltk.RegexpParser(chunkGram)
+                chunked = chunkParser.parse(tagged)
+
+                word_lst = []
+                for c in chunked:
+                    if isinstance(c, tuple):
+                        word_lst.append(c[0])
+
+                print(word_lst)
+                word_lst = [x for x in word_lst if (x.isalnum() and x != '#' and x != '@')]
             else:
                 word_lst = row[factor]
 
@@ -159,6 +176,7 @@ print(user.get_hRank()[:10])
 print(user.get_iRank()[:10])
 
 print(user.evaluate_posts())
+
 
 
 

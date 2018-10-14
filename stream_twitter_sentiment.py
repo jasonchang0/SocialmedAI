@@ -15,7 +15,7 @@ import sentiment_module as s_mod
 # atoken = ""
 # asecret = ""
 
-dir = '/Users/jasonchang/Desktop/PycharmProjects/natural-language-processing/'
+dir = '/Users/jasonchang/Desktop/PycharmProjects/hackathon-materials/'
 
 class listener(StreamListener):
 
