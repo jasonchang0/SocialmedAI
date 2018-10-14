@@ -43,8 +43,8 @@ word_features = pickle.load(word_features_file)
 word_features_file.close()
 
 
-def find_features(document):
-    words = word_tokenize(document)
+def find_features(words):
+    # words = word_tokenize(document)
     features = {}
     for w in word_features:
         features[w] = (w in words)
@@ -100,9 +100,14 @@ voted_classifier = VoteClassifier(
     NuSVC_classifier)
 
 
-def sentiment(text):
-    feats = find_features(text)
+def sentiment(words):
+    feats = find_features(words)
     return voted_classifier.classify(feats), voted_classifier.confidence(feats)
+
+
+
+
+
 
 
 
