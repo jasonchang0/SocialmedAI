@@ -1,4 +1,4 @@
-SocialmedAI
+[SocialmedAI] (https://devpost.com/software/socialmedai-v51gni)
 =====
 ###*Using ML to correlate what’s in an Instagram photo w/ Clarifai and its caption with its popularity through a webapp.*<br/>
 
@@ -51,4 +51,6 @@ SocialmedAI could be advertised towards businesses, students, and other customer
 
 ##Try it out
 ###[**socialmedai.net**] (http://socialmedai.net)
+
+###[**SocialmedAI Demo Video**] (https://youtu.be/rRRWZ08uLQE)
 
