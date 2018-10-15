@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no" /
+  <link rel='shortcut icon' type='image/x-icon' href='favicon.ico'/>
+  <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p2.js/0.7.1/p2.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.7.1/pixi.min.js"></script>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="jquery.igjs.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js"></script>
+  <script src="script.js"></script>
+</head>
+<body>
+  <div id="everything-outer">
+    <div id="post-display-outer" class="invisible">
+      <div id="post-outer">
+        <canvas id="myChart" width="400px" height="400px" class="invisible"></canvas>
+        <div id="post-close">close</div>
+        <div id="post-left">
+          <img id="post-img" src="https://scontent-gru2-1.cdninstagram.com/vp/388928f6380bc006f6ac426276ee6851/5C6184F9/t51.2885-15/sh0.08/e35/c142.0.796.796/s640x640/41468650_1935773506465918_7816098422908975366_n.jpg" />
+        </div>
+        <div id="post-right">
+          <div id="photo-info">
+            <h3>photo information</h3>
+            <h6>likes: <span id="post-likes">asdf</span></h6>
+            <h6>comments: <span id="post-comments">asdf</span></h6>
+            <h6 style="margin-top: 35px">caption</h6>
+            <p id="post-caption">aigruhse uhfhiu aehifufaehiuwafewhiu </p>
+          </div>
+          <div id="analysis-info">
+            <h3>analysis</h3>
+            <div class='ranking-outer'>
+            <h5 class='success'>success: </h5>
+            <div class="bar-outer">
+              <div class='bar success inactive'><p>10</p></div>
+            </div>
+            </div>
+            <h6 id="post-header">most influential photo attributes</h6>
+            <p id="post-success">blah blah</p>
+            <h6 id="hash-header">most influential keywords</h6>
+            <p id="hash-success">blah blah</p>
+            <h6 id="misaligned-header"></h6>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="header-fixed">
+      <div class="full-relative">
+        <a href="index.html" id="header-logo-left">
+          <img src="logo-big.png" class="header-logo-text"/>
+        </a>
+        <div id="header-right">
+          <a class="header-link cool-hover" href="analyze.html">analyze</a>
+          <a class="header-link cool-hover" href="about.html">about</a>
+        </div>
+        <div id="hamburger-outer">
+          <div class="full-relative">
+            <div class="burger" id="burger1"></div>
+            <div class="burger" id="burger2"></div>
+            <div class="burger" id="burger3"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="loading" class="loading">
+      <div id="loading-inner">
+        <h3>loading...</h3>
+        <div id="loading-icon"></div>
+        <p>it may take up to a minute to train our algorithms</p>
+      </div>
+    </div>
+
+    <div id="content" class="inactive">
+      <div class="container">
+        <div id="main-form" class="row">
+          <h4>analyze an account: </h4><br>
+          <input type="text" name="account" placeholder="instagram"></input>
+          <input type="submit" value="analyze" name="instagram-search"></input>
+        </div>
+        <div class="row initial-stats loading">
+          <div class="col-md-6">
+            <h4>photo descriptions (good / <span>bad</span>)</h4>
+            <div class="canvas clarifai-canvas"></div>
+          </div>
+          <div class="col-md-6">
+            <h4>keywords (good / <span>bad</span>)</h4>
+            <div class="canvas tags-canvas"></div>
+          </div>
+        </div>
+        <div id="instafeed" class="row loading">
+        </div>
+      </div>
+    </div>
+
+    <div id="footer" class="analyze-footer">
+      <a id="footer-logo" href="index.html">
+        <img src="logo-white.png" />
+      </a>
+      <div id="footer-links">
+        <a class="footer-link" href="sauces.html">analyze</a>
+        <a class="footer-link" href="about.html">about</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

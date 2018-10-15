@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>KnightCoin Live Tracker</title>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+  <style>
+
+  .half-graph {
+    display: inline-block;
+    width: 500px;
+  }
+
+  .kc {
+    background-color: #000;
+    font-family: "Courier New", sans-serif;
+  }
+
+  .stat {
+    color: #fff;
+    font-size: 10pt;
+    margin: -10px 0;
+    display: inline-block;
+    background-color: transparent;
+    transition: background-color 1s;
+  }
+
+  .stat.knightcoin-ticker {
+    font-size: 30pt;
+  }
+
+  .stat.updated {
+    background-color: #333;
+    transition: none;
+  }
+
+  .loss {
+    color: #faa;
+  }
+
+  .gain {
+    color: #afa;
+  }
+
+  span {
+    margin: 0;
+  }
+
+  .kc-price {
+    background-color: transparent;
+    transition: background-color 1s;
+  }
+
+  .kc-price.updated {
+    background-color: #333;
+    transition: none;
+  }
+
+  p {
+    color: #fff;
+  }
+
+  .kc-link {
+    display: block;
+    text-align: right;
+    color: #b20202;
+  }
+  </style>
+</head>
+<body class="kc">
+  <div class="temp" temp="<%= @data %>"></div>
+  <%= link_to "<< Back to Fairview", "/", class: "kc-link" %>
+  <%= link_to "About KnightCoin", "/knightcoin/about", class: "kc-link" %>
+  <p class="knightcoin-ticker stat">KC: <span class="kc-price"></span></p><br>
+  <p class="transactions stat">Total transactions: 0</p><br>
+  <p class="bs1 stat">FFNRE Ratio: 0</p><br>
+  <p class="bs2 stat">JTWQ Constant: 0</p><br>
+  <p class="bs3 stat">NBSML: 0</p><br>
+  <br><br>
+  <p>Lifetime Graph - <span class="kc-price"></span> <span class="lifetime-stats stat">0</span></p>
+  <canvas id="canvas0" width="1000px" height="400px"></canvas>
+  <div class="half-graph">
+    <p>Last 30 mins - <span class="kc-price"></span> <span class="30-stats stat">0</span></p>
+    <canvas id="canvas1" width="500px" height="400px"></canvas>
+  </div>
+  <div class="half-graph">
+    <p>Last 4 hours - <span class="kc-price"></span> <span class="4-stats stat">0</span></p>
+    <canvas id="canvas2" width="500px" height="400px"></canvas>
+  </div>
+
+  <script>
+  var graphs = [];
+  var data;
+
+  var Graph = function(id, start, end) {
+    this.id = id;
+    this.canvasId = "canvas"+id;
+    this.start = start;
+    this.end = end;
+
+    this.updateBounds = function(start, end) {
+      this.start = start;
+      this.end = end;
+      this.update();
+    }
+
+    this.update = function() {
+      var canvas = document.getElementById(this.canvasId);
+      var ctx = canvas.getContext("2d");
+      var cDimensions = [canvas.offsetWidth, canvas.offsetHeight];
+
+      ctx.fillStyle = "#000";
+      ctx.fillRect(0, 0, cDimensions[0], cDimensions[1]);
+
+      ctx.beginPath();
+      ctx.lineTo(0, (1-data[0]/max*0.8)*cDimensions[1]);
+
+      var maxInterval = this.end; //between 0 and 17828
+      var startInterval = this.start; //between 0 and 17828
+      if(maxInterval > 17828) {
+        for(var i = 0; i < maxInterval - 17828; i++) {
+          data.push(0)
+        }
+      }
+      if(startInterval > (17828 - 50)) {
+        startInterval = 17828 - 50;
+      }
+
+      var step = Math.floor((maxInterval - startInterval)/1000) + 1;
+
+      var max = data[0];
+      var min = data[0];
+      for(var i = startInterval; i < maxInterval; i++) {
+        if(parseFloat(data[i]) > max) {
+          max = data[i];
+        }
+        if(parseFloat(data[i]) < min) {
+          min = data[i];
+        }
+      }
+
+      var axisInterval;
+
+      if(max < 0.1) {
+        axisInterval = 0.005;
+      }
+      else if(max < 1) {
+        axisInterval = 0.05;
+      }
+      else if(max < 10) {
+        axisInterval = 0.5;
+      }
+      else {
+        axisInterval = 10;
+      }
+
+      // axisInterval /= cDimensions[1]/400
+
+      //in terms of px per $
+      var scale = Math.abs((cDimensions[1] - (0.2*cDimensions[1]))/(max));
+
+      //populate axis
+      ctx.font = "10px Courier New";
+      ctx.fillStyle = "#fff";
+
+      ctx.textAlign = "left";
+
+      for(var i = 0; i < Math.floor(max/axisInterval) + 1; i++) {
+        ctx.fillText("$"+formatMoney(i*axisInterval), 0, (cDimensions[1] - 50) - axisInterval*i*scale);
+
+        ctx.beginPath();
+        ctx.moveTo(50, (cDimensions[1] - 54) - axisInterval*i*scale);
+        ctx.lineTo(cDimensions[0] - 50, (cDimensions[1] - 54) - axisInterval*i*scale);
+        ctx.lineWidth = "1";
+        ctx.strokeStyle = "#222";
+        ctx.stroke();
+        ctx.closePath();
+      }
+
+
+      //time axis;
+      var timeDiff = (maxInterval - startInterval)*10000; //converting 10s to milliseconds
+      var hourDiff = timeDiff/(3600000);
+
+      //axis interval is in terms of hours
+      if(hourDiff < 0.1) {
+        axisInterval = 0.01;
+      }
+      else if(hourDiff < 1) {
+        axisInterval = 0.06;
+      }
+      else if(hourDiff < 10) {
+        axisInterval = 0.8;
+      }
+      else if(hourDiff < 36) {
+        axisInterval = 4;
+      }
+      else {
+        axisInterval = 8;
+      }
+
+      axisInterval /= cDimensions[0]/1000
+
+      // axisinterval back into ms
+      axisInterval *= 3600000;
+
+      ctx.textAlign = "center";
+      for(var i = 0; i < Math.floor(timeDiff/axisInterval) + 1; i++) {
+        ctx.fillText(msToHour(i*axisInterval + startInterval*10000), ((i*axisInterval)/timeDiff)*cDimensions[0]*0.8 + 50, cDimensions[1] - 10);
+
+        ctx.beginPath();
+        ctx.moveTo(((i*axisInterval)/timeDiff)*cDimensions[0]*0.8 + 50, 25);
+        ctx.lineTo(((i*axisInterval)/timeDiff)*cDimensions[0]*0.8 + 50, cDimensions[1] - 25);
+        ctx.strokeStyle = "#222";
+        ctx.stroke();
+        ctx.closePath();
+      }
+
+      ctx.beginPath();
+      ctx.moveTo(50, (1-data[startInterval]/max*0.8)*cDimensions[1] - 50);
+      for(var i = 0; i < maxInterval - startInterval; i += step) {
+        ctx.lineTo((i/(maxInterval - startInterval))*cDimensions[0]*0.8 + 50, (1-data[startInterval + i]/max*0.8)*cDimensions[1] - 50);
+      }
+
+      ctx.lineWidth = "2";
+      ctx.strokeStyle = "#0f0";
+
+      ctx.stroke();
+      ctx.closePath();
+
+      //draw axis
+      ctx.beginPath();
+      ctx.moveTo(50, 25);
+      ctx.lineTo(50, cDimensions[1] - 25);
+      ctx.lineTo(cDimensions[0] - 50, cDimensions[1] - 25);
+      ctx.stroke();
+      ctx.closePath();
+    }
+  }
+
+  $(document).ready(function() {
+    init();
+  });
+
+  var init = function() {
+    $(".temp").remove();
+
+    graphs = [];
+
+    updateDiffs();
+
+    var currDate = new Date();
+
+  // graphs.push(new Graph(graphs.length, 0, 25900)); //dates must be between 0 and 17828
+    graphs.push(new Graph(graphs.length, 0, Math.floor((currDate.getTime()-startDate)/10000))); //dates must be between 0 and 17828
+
+    var currPrice = data[Math.floor((currDate.getTime()-startDate)/10000)];
+
+    if((currDate.getTime()-startDate)*0.0001 > 17828) {
+      for(var i = 0; i < (currDate.getTime()-startDate)*0.0001 - 16000; i++) {
+        data.push(0.0);
+      }
+    }
+
+    currPrice = data[Math.floor((currDate.getTime()-startDate)/10000)];
+
+    $(".kc-price").html("$"+formatMoney(currPrice));
+    $(".kc-price").addClass("updated")
+    setTimeout(function() {
+      $(".kc-price").removeClass("updated");
+    }, 100);
+
+    update();
+    updateStats();
+  }
+
+  var updateDiffs = function() {
+    var currDate = new Date();
+    var currPrice = data[Math.floor((currDate.getTime()-startDate)/10000)];
+
+    if((currDate.getTime()-startDate)*0.0001 > 17828) {
+      for(var i = 0; i < (currDate.getTime()-startDate)*0.0001 - 16000; i++) {
+        data.push(0.0);
+      }
+    }
+
+    currPrice = data[Math.floor((currDate.getTime()-startDate)/10000)];
+
+    $(".lifetime-stats").html(getDiffText(data[0], currPrice));
+    $(".lifetime-stats").addClass("updated");
+    if($(".lifetime-stats").html().indexOf("+") > -1) {
+      $(".lifetime-stats").removeClass("loss").addClass("gain");
+    } else {
+      $(".lifetime-stats").addClass("loss").removeClass("gain");
+    }
+    setTimeout(function() {
+      $(".lifetime-stats").removeClass("updated");
+    }, 100);
+
+    $(".30-stats").html(getDiffText(data[Math.floor((currDate.getTime()-startDate)/10000) - 180], currPrice));
+    $(".30-stats").addClass("updated");
+    if($(".30-stats").html().indexOf("+") > -1) {
+      $(".30-stats").removeClass("loss").addClass("gain");
+    } else {
+      $(".30-stats").addClass("loss").removeClass("gain");
+    }
+    setTimeout(function() {
+      $(".30-stats").removeClass("updated");
+    }, 100);
+
+    $(".4-stats").html(getDiffText(data[Math.floor((currDate.getTime()-startDate)/10000) - 1440], currPrice));
+    if($(".4-stats").html().indexOf("+") > -1) {
+      $(".4-stats").removeClass("loss").addClass("gain");
+    } else {
+      $(".4-stats").addClass("loss").removeClass("gain");
+    }
+    $(".4-stats").addClass("updated");
+    setTimeout(function() {
+      $(".4-stats").removeClass("updated");
+    }, 100);
+  }
+
+  var update = function() {
+    for(var i = 0; i < graphs.length; i++) {
+      graphs[i].update();
+    }
+  }
+  setInterval(init, 10000);
+  setInterval(updateStats, 2000);
+  </script>
+</body>

@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+numpy = "*"
+scipy = "*"
+statistics = "*"
+nltk = "*"
+flask = "*"
+flask-cors = "*"
+instaloader = "*"
+clarifai = "*"
+sklearn = "*"
+pyopenssl = "*"
+
+[dev-packages]
+machine-learning = {editable = true, path = "."}
+
+[requires]
+python_version = "3"

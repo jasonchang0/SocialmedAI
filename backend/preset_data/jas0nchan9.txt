@@ -1,0 +1,1299 @@
+{
+  "image_analysis": {
+    "1179593491397700205": {
+      "comments": 0, 
+      "image_keywords": [
+        "no person", 
+        "nature", 
+        "outdoors"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/589c39812f3d6b37d6ccdce52d6176c2/5C4282CA/t51.2885-15/e35/12677456_1137018352983194_992306456_n.jpg", 
+      "likes": 20, 
+      "misalignment": true, 
+      "score": -8, 
+      "success": false, 
+      "text": "Never know what you will find in nature #nature #explorer", 
+      "text_keywords": [
+        "explorer", 
+        "explore", 
+        "nature"
+      ]
+    }, 
+    "1179597809584663272": {
+      "comments": 2, 
+      "image_keywords": [
+        "no person", 
+        "nature", 
+        "outdoors"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/05dade85912f64e5153386dc529e200f/5C548ADA/t51.2885-15/e35/12627819_453958981461732_333367950_n.jpg", 
+      "likes": 23, 
+      "misalignment": true, 
+      "score": -8, 
+      "success": false, 
+      "text": "My second attempt with Instagram. Come on! Don't let me down, Instagram. #nature #explorer", 
+      "text_keywords": [
+        "explorer", 
+        "explore", 
+        "nature"
+      ]
+    }, 
+    "1179975212010007197": {
+      "comments": 3, 
+      "image_keywords": [
+        "no person", 
+        "nature", 
+        "outdoors", 
+        "color"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/acd9216f02cdd935b7b7b68171c3f5d8/5C5F32D0/t51.2885-15/e35/12331347_1223037877709680_1783925266_n.jpg", 
+      "likes": 34, 
+      "misalignment": true, 
+      "score": -8, 
+      "success": false, 
+      "text": "\"Once you are on the right path, you will no longer be interested in looking back\" #nature #explorer", 
+      "text_keywords": [
+        "explorer", 
+        "explore", 
+        "nature"
+      ]
+    }, 
+    "1181735152982649853": {
+      "comments": 2, 
+      "image_keywords": [
+        "light", 
+        "sky", 
+        "no person", 
+        "nature", 
+        "outdoors"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/a6e44c2ba07051cd417d3468d59b88c7/5C61CFB1/t51.2885-15/e35/12568280_437739169769261_70849002_n.jpg", 
+      "likes": 53, 
+      "misalignment": true, 
+      "score": -7, 
+      "success": false, 
+      "text": "\"Similar to the sky, as long as we are alive, we should have infinite potential\" #dslr #nature #explorer", 
+      "text_keywords": [
+        "dslr", 
+        "sky", 
+        "explorer", 
+        "explore", 
+        "nature"
+      ]
+    }, 
+    "1183068888940636631": {
+      "comments": 0, 
+      "image_keywords": [
+        "sky", 
+        "high", 
+        "no person", 
+        "nature", 
+        "outdoors"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/679eac082e0dc48b6626a5553555e63b/5C5D2A4D/t51.2885-15/e35/12556103_460506987490723_1094015184_n.jpg", 
+      "likes": 54, 
+      "misalignment": false, 
+      "score": -7, 
+      "success": false, 
+      "text": "1/100  From now on, I will be posting top 100 selections from my summer trips in addition to pictures from my daily life. @andrew.kroll #explore #explorer #nature #dslr", 
+      "text_keywords": [
+        "dslr", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature"
+      ]
+    }, 
+    "1183892866412276548": {
+      "comments": 2, 
+      "image_keywords": [
+        "urban", 
+        "no person", 
+        "outdoors", 
+        "building", 
+        "architecture", 
+        "city"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/f4661f1962822fe0debfd1521705fab2/5C613548/t51.2885-15/e35/12716536_1082676195085840_889316499_n.jpg", 
+      "likes": 53, 
+      "misalignment": true, 
+      "score": -7, 
+      "success": false, 
+      "text": "2/100 Seattle Coast from the top of Space Needle @andrew.kroll #nature #explorer #explore #dslr", 
+      "text_keywords": [
+        "dslr", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature"
+      ]
+    }, 
+    "1184976535516310063": {
+      "comments": 0, 
+      "image_keywords": [
+        "sky", 
+        "urban", 
+        "construction", 
+        "no person", 
+        "outdoors", 
+        "building", 
+        "architecture", 
+        "city"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/678d1b45c9b41717093ee51edaa84ade/5C61570E/t51.2885-15/e35/12748313_562233007268247_650003037_n.jpg", 
+      "likes": 52, 
+      "misalignment": true, 
+      "score": -7, 
+      "success": false, 
+      "text": "3/100 -  Mississippi River @andrew.kroll #explore #explorer #nature #bridge #dslr #mississippi", 
+      "text_keywords": [
+        "dslr", 
+        "-", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature"
+      ]
+    }, 
+    "1185952060305008904": {
+      "comments": 0, 
+      "image_keywords": [
+        "no person", 
+        "nature", 
+        "outdoors", 
+        "color"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/5067eb8fd63a309cc642213a85f78701/5C47A73C/t51.2885-15/e35/12502049_185926501773514_1857745895_n.jpg", 
+      "likes": 64, 
+      "misalignment": true, 
+      "score": -7, 
+      "success": false, 
+      "text": "\"Even the simplest thing has its happiness\" #nature #explore #explorer #dslr #flowers #simple", 
+      "text_keywords": [
+        "dslr", 
+        "explorer", 
+        "explore", 
+        "nature"
+      ]
+    }, 
+    "1188928542216251960": {
+      "comments": 0, 
+      "image_keywords": [
+        "light", 
+        "sky", 
+        "urban", 
+        "no person", 
+        "nature", 
+        "outdoors", 
+        "building", 
+        "architecture", 
+        "city", 
+        "contemporary"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/423f2e01e9ccdc59db83d12283492e9f/5C5B144D/t51.2885-15/e35/12677676_947299612026546_2134056752_n.jpg", 
+      "likes": 64, 
+      "misalignment": true, 
+      "score": -7, 
+      "success": false, 
+      "text": "4/100 Gateway Arch St. Louis, Missouri @andrew.kroll #explore #explorer #dslr #stlouis #missouri #nature", 
+      "text_keywords": [
+        "dslr", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature"
+      ]
+    }, 
+    "1191090932965927108": {
+      "comments": 2, 
+      "image_keywords": [
+        "sky", 
+        "urban", 
+        "no person", 
+        "outdoors", 
+        "building", 
+        "architecture", 
+        "city"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/2fcbb5bc937791a045e5969bceef78ba/5C468B38/t51.2885-15/e35/12728517_1722863724625143_2087592270_n.jpg", 
+      "likes": 66, 
+      "misalignment": true, 
+      "score": -7, 
+      "success": false, 
+      "text": "5/100 - St. Louis daytime city view @andrew.kroll #dslr #dslrphotography #nature #explorer #explore #city #daytime #stlouis #missouri", 
+      "text_keywords": [
+        "dslr", 
+        "-", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography", 
+        "city"
+      ]
+    }, 
+    "1197595817785912127": {
+      "comments": 1, 
+      "image_keywords": [
+        "sky", 
+        "no person", 
+        "nature", 
+        "outdoors"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/3ab05330eb6791ab20e7c5ceb0541c33/5C595253/t51.2885-15/e35/12750373_214135152273569_1709459735_n.jpg", 
+      "likes": 76, 
+      "misalignment": true, 
+      "score": -6, 
+      "success": false, 
+      "text": "6/100 - Mark Twain's Childhood @andrew.kroll #explore #explorer #missouri #marktwain #imagination #dslr #dslrphotography #nature #naturephotography #childhood", 
+      "text_keywords": [
+        "dslr", 
+        "-", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography"
+      ]
+    }, 
+    "1207125813579704673": {
+      "comments": 0, 
+      "image_keywords": [
+        "sky", 
+        "no person", 
+        "nature", 
+        "outdoors"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/968aad86bb3cb057d3db7093e703b2c3/5C44AE5A/t51.2885-15/e35/12798066_1104147736302716_1920948973_n.jpg", 
+      "likes": 48, 
+      "misalignment": false, 
+      "score": -7, 
+      "success": false, 
+      "text": "7/100 - \"I'd like to just get one of those pink cloud and put you in it and push you around.\" - F. Scott Fitzgerald ~ Dream @andrew.kroll #explorer #explore #dslr #nature #washington #nationalpark #dream", 
+      "text_keywords": [
+        "dslr", 
+        "-", 
+        "washington", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature"
+      ]
+    }, 
+    "1209929356242020917": {
+      "comments": 2, 
+      "image_keywords": [
+        "light", 
+        "sky", 
+        "no person", 
+        "nature", 
+        "outdoors", 
+        "architecture"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/5f4187dfbeed324025ecdce600c390c3/5C439DD0/t51.2885-15/e35/12826258_768827073218927_339427313_n.jpg", 
+      "likes": 61, 
+      "misalignment": true, 
+      "score": -7, 
+      "success": false, 
+      "text": "8/100 - \"Individually, each one of us is simply a cloud; but together, we complete the infinite sky\" - Teamwork @lesliesim11 @tiffnywu #infinite #atlanta #georgia #sky #nature #dslr #thankful #photography", 
+      "text_keywords": [
+        "dslr", 
+        "sky", 
+        "-", 
+        "nature", 
+        "photography"
+      ]
+    }, 
+    "1212719361754622042": {
+      "comments": 3, 
+      "image_keywords": [
+        "no person", 
+        "color", 
+        "dark"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/0bae30458ef77d4054cbcffa4e2aae0e/5C6249E5/t51.2885-15/e35/12142351_1061122573944488_1843596911_n.jpg", 
+      "likes": 76, 
+      "misalignment": true, 
+      "score": -6, 
+      "success": false, 
+      "text": "9/100 - \"Everyone was assigned with a true color, and eventually individual would reflect that color and shine\" @andrew.kroll #waterfall #nature #color #shine #explore #dslr #photography #journey", 
+      "text_keywords": [
+        "dslr", 
+        "-", 
+        "andrew.kroll", 
+        "explore", 
+        "nature", 
+        "photography", 
+        "color"
+      ]
+    }, 
+    "1213531946523519657": {
+      "comments": 0, 
+      "image_keywords": [
+        "no person", 
+        "outdoors", 
+        "building", 
+        "architecture"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/3cfd2b4b2029c89d0eaed2e27aa38d11/5C56AFD1/t51.2885-15/e35/11850381_948946881854098_1562264664_n.jpg", 
+      "likes": 71, 
+      "misalignment": false, 
+      "score": -6, 
+      "success": false, 
+      "text": "10/100 - \"Home, the only perpetual and eternal support of your dream.\" @andrew.kroll #explorer #journey #kentucky #dslr #nature #home #support #dream #rustic", 
+      "text_keywords": [
+        "dslr", 
+        "-", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature"
+      ]
+    }, 
+    "1214508389990623476": {
+      "comments": 0, 
+      "image_keywords": [
+        "urban", 
+        "city"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/367b7823aa0d6ad29a4a6efc710c4238/5C504507/t51.2885-15/e35/12724624_1009987332425674_1062651420_n.jpg", 
+      "likes": 58, 
+      "misalignment": true, 
+      "score": -7, 
+      "success": false, 
+      "text": "11/100 - \"The one who follows the crowd will usually get no further than the crowd. However, the one who walks alone, is likely to find himself in places no has ever been.\" - Albert Einstein #einstein #explorer #crowd #market #seattle #dslr #photography #independence #unique", 
+      "text_keywords": [
+        "dslr", 
+        "-", 
+        "seattle", 
+        "explorer", 
+        "explore", 
+        "photography"
+      ]
+    }, 
+    "1215542663246212014": {
+      "comments": 3, 
+      "image_keywords": [
+        "sky", 
+        "no person"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/0f953420774bca4e6552b3f71ea8c1c2/5C5E85E3/t51.2885-15/e35/12230987_106936326373546_1852199879_n.jpg", 
+      "likes": 78, 
+      "misalignment": false, 
+      "score": -6, 
+      "success": false, 
+      "text": "\"Let go of every sorrow you hold, smile can light a fire in this darkness\" - @iammcjin #explorer #explore #beach #beautiful #dslr #photography #sandiego #sand #sunset #clouds", 
+      "text_keywords": [
+        "dslr", 
+        "light", 
+        "-", 
+        "explorer", 
+        "explore", 
+        "clouds", 
+        "photography", 
+        "dark"
+      ]
+    }, 
+    "1216201939174255448": {
+      "comments": 0, 
+      "image_keywords": [
+        "no person", 
+        "nature", 
+        "outdoors", 
+        "color"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/034de694a01f52b2405706ac9a8e32d3/5C593523/t51.2885-15/e35/12912746_1592592087729709_19876722_n.jpg", 
+      "likes": 65, 
+      "misalignment": true, 
+      "score": -7, 
+      "success": false, 
+      "text": "\"Solitudes allow you to hear more from the surroundings\" #explore #goose #arboretum #dslr #photography #nature #solitude #california #environment #forest", 
+      "text_keywords": [
+        "dslr", 
+        "explore", 
+        "nature", 
+        "photography"
+      ]
+    }, 
+    "1220029612233288628": {
+      "comments": 5, 
+      "image_keywords": [
+        "no person", 
+        "outdoors", 
+        "building", 
+        "architecture"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/89584ac8e3ba349f52fb8fcabea444a3/5C627273/t51.2885-15/e35/11250242_825814080878231_1927971519_n.jpg", 
+      "likes": 63, 
+      "misalignment": true, 
+      "score": -7, 
+      "success": false, 
+      "text": "12/100 - \"An ordinary place, sparked with love, can turn into a magical place called home.\" @andrew.kroll #explore #explorer #dslr #photography #missouri #marktwain #childhood #imagination #nature #naturephotography #home #wesoinspirational", 
+      "text_keywords": [
+        "dslr", 
+        "-", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography"
+      ]
+    }, 
+    "1221357492817062038": {
+      "comments": 2, 
+      "image_keywords": [
+        "sky", 
+        "no person", 
+        "outdoors", 
+        "building", 
+        "architecture", 
+        "city"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/2f27d78ec31900d08be7e5f4b187c493/5C440FA1/t51.2885-15/e35/12424931_619977068156836_584176721_n.jpg", 
+      "likes": 83, 
+      "misalignment": true, 
+      "score": -6, 
+      "success": false, 
+      "text": "13/100 - \"Sometimes you can't see yourself clearly until you see yourself through the eyes of others\" @andrew.kroll #explorer #explore #photography #self #mississippi #nature #dslr #naturephotography #wesoinspirational", 
+      "text_keywords": [
+        "dslr", 
+        "-", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography"
+      ]
+    }, 
+    "1223480521063885227": {
+      "comments": 2, 
+      "image_keywords": [
+        "no person", 
+        "nature", 
+        "outdoors", 
+        "color"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/938bb10fae2f24ce403a820ca44d9082/5C51D3A0/t51.2885-15/e35/12816805_1716861928561734_1760769174_n.jpg", 
+      "likes": 59, 
+      "misalignment": true, 
+      "score": -7, 
+      "success": false, 
+      "text": "\"Forget what hurt you, but never forget what it taught you\" @andrew.kroll #explore #explorer #nature #naturephotography #dslr #photography #california #forest #arboretum", 
+      "text_keywords": [
+        "dslr", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography"
+      ]
+    }, 
+    "1224280857978562911": {
+      "comments": 1, 
+      "image_keywords": [
+        "no person", 
+        "nature", 
+        "outdoors", 
+        "color"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/79149f9b07a71765ded1725a9ee414df/5C3D9E28/t51.2885-15/e35/12912430_456238021236969_1926060878_n.jpg", 
+      "likes": 84, 
+      "misalignment": true, 
+      "score": -6, 
+      "success": false, 
+      "text": "\"A wheat was born a wheat even if it was mistaken as a grass at first\" #photographyadventures #wesoinspirational #wheat #explore #photography #dslr #nature #california #forest #arboretum #naturephotography #explorer", 
+      "text_keywords": [
+        "dslr", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography", 
+        "photographyadventures"
+      ]
+    }, 
+    "1225685513560615322": {
+      "comments": 0, 
+      "image_keywords": [
+        "sky", 
+        "no person", 
+        "nature", 
+        "outdoors"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/d195e1a9c0e97ea47407a9844eff290a/5C40013C/t51.2885-15/e35/12930970_256690711342493_1698290270_n.jpg", 
+      "likes": 105, 
+      "misalignment": false, 
+      "score": -5, 
+      "success": false, 
+      "text": "\"Paradise Falls, a land lost in time\" #photographyadventures #wesoinspirational #explore #nature #photography #dslr #up #disney #waterfall #canada #toronto #canada #forest #naturephotography", 
+      "text_keywords": [
+        "dslr", 
+        "explore", 
+        "nature", 
+        "photography", 
+        "photographyadventures"
+      ]
+    }, 
+    "1227292483702975334": {
+      "comments": 10, 
+      "image_keywords": [
+        "light", 
+        "sky", 
+        "urban", 
+        "no person", 
+        "building", 
+        "architecture", 
+        "city"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/935941e3a25db35a9b17464b9ee9d334/5C51020A/t51.2885-15/e35/12599299_1063976183661253_1960204010_n.jpg", 
+      "likes": 135, 
+      "misalignment": false, 
+      "score": -3, 
+      "success": false, 
+      "text": "\"Preparation is crucial when taking an action; even a lightning builds up its electrostatic charge among clouds first before striking\" #photography #dslr #nature #lightning #thunder #storm #explore #preparation #clouds #physics #canada #cntower #toronto #casaloma #city #weather #naturephotography", 
+      "text_keywords": [
+        "dslr", 
+        "light", 
+        "tower", 
+        "explore", 
+        "clouds", 
+        "nature", 
+        "photography", 
+        "city"
+      ]
+    }, 
+    "1229968314959095916": {
+      "comments": 4, 
+      "image_keywords": [
+        "sky", 
+        "no person", 
+        "nature", 
+        "outdoors", 
+        "city", 
+        "dark"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/3a5c9a80693af156ae98588a7f79c049/5C3D78EF/t51.2885-15/e35/12930912_990395837664426_704683321_n.jpg", 
+      "likes": 119, 
+      "misalignment": true, 
+      "score": -4, 
+      "success": false, 
+      "text": "15/100 - \"Even in the dark times, don't forget about the stars that will one day guide you to the final destination.\" @andrew.kroll #photography #explore #explorer #nature #naturephotography #mississippi #mississippiriver #chattanooga #star #sky #night #dslr #dark", 
+      "text_keywords": [
+        "dslr", 
+        "sky", 
+        "-", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography", 
+        "dark"
+      ]
+    }, 
+    "1235234995889465371": {
+      "comments": 0, 
+      "image_keywords": [
+        "sky", 
+        "no person", 
+        "nature", 
+        "outdoors", 
+        "architecture"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/b8646c2d047833b3853f63ff4cd4b547/5C462EDA/t51.2885-15/e35/12965753_1698583120380620_553107804_n.jpg", 
+      "likes": 153, 
+      "misalignment": true, 
+      "score": -2, 
+      "success": false, 
+      "text": "16/100 - \"Sail away from safe harbor. Catch the wind in your sails. Explore. Dream. Discover.\" - Mark Twain @andrew.kroll #explorer #explore #photography #sky #nature #dslr #naturephotography #wesoinspirational #photographyadventures #clouds #mississippi #mississippiriver #sunset", 
+      "text_keywords": [
+        "dslr", 
+        "sky", 
+        "-", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "clouds", 
+        "nature", 
+        "photography", 
+        "photographyadventures"
+      ]
+    }, 
+    "1254872225402546769": {
+      "comments": 0, 
+      "image_keywords": [
+        "sky", 
+        "tower", 
+        "urban", 
+        "no person", 
+        "outdoors", 
+        "building", 
+        "architecture", 
+        "city"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/a1226223da06e886c37d966255f7b6d3/5C3E0FFB/t51.2885-15/e35/13256933_133370717066919_1217214351_n.jpg", 
+      "likes": 105, 
+      "misalignment": true, 
+      "score": -5, 
+      "success": false, 
+      "text": "17/100 - \"Architecture is a visual art and the building speak for themselves\" - Julia Morgan @andrew.kroll #explore #city #photography #sky #architecture #stlouis #photographyadventures #dslr #explorer #nature #missouri", 
+      "text_keywords": [
+        "dslr", 
+        "sky", 
+        "-", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography", 
+        "building", 
+        "architecture", 
+        "city", 
+        "photographyadventures"
+      ]
+    }, 
+    "1257034250140478009": {
+      "comments": 0, 
+      "image_keywords": [
+        "no person", 
+        "color"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/7444d04a08479b58d7ee7559186a482c/5C533821/t51.2885-15/e35/13285230_1080825495317602_491749038_n.jpg", 
+      "likes": 103, 
+      "misalignment": true, 
+      "score": -5, 
+      "success": false, 
+      "text": "18/100 @andrew.kroll #nature #explorer #dslr #photographyadventures #photography #explore #cave #kentucky #stalactites #mood #color #dark #light", 
+      "text_keywords": [
+        "dslr", 
+        "light", 
+        "mood", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography", 
+        "color", 
+        "photographyadventures", 
+        "dark"
+      ]
+    }, 
+    "1258904504168835618": {
+      "comments": 0, 
+      "image_keywords": [
+        "light", 
+        "no person", 
+        "dark"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/6271f91f2e608d8f720c4f753d452930/5C3F2899/t51.2885-15/e35/13267559_138719776541329_1986484825_n.jpg", 
+      "likes": 96, 
+      "misalignment": true, 
+      "score": -5, 
+      "success": false, 
+      "text": "19/100 @andrew.kroll #nature #explorer #dslr #photographyadventures #photography #explore #cave #kentucky #stalactites #mood #color #dark #light", 
+      "text_keywords": [
+        "dslr", 
+        "light", 
+        "mood", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography", 
+        "color", 
+        "photographyadventures", 
+        "dark"
+      ]
+    }, 
+    "1268462505070390207": {
+      "comments": 4, 
+      "image_keywords": [
+        "sky", 
+        "no person", 
+        "outdoors", 
+        "building", 
+        "architecture", 
+        "city"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/6f79c8d439b22a35c460e920ae936751/5C3DFB3A/t51.2885-15/e35/13392730_602968536545444_1125818964_n.jpg", 
+      "likes": 144, 
+      "misalignment": false, 
+      "score": -3, 
+      "success": false, 
+      "text": "20/100 @andrew.kroll #nature #explorer #explore #mood #night #cityview #nashville #bridge #nighttime #dslr #photography #photographyadventures #dark #light #color #colorful", 
+      "text_keywords": [
+        "dslr", 
+        "light", 
+        "mood", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography", 
+        "color", 
+        "city", 
+        "photographyadventures", 
+        "dark"
+      ]
+    }, 
+    "1277635750805859227": {
+      "comments": 2, 
+      "image_keywords": [
+        "urban", 
+        "no person", 
+        "building", 
+        "architecture", 
+        "city"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/1beed7d9a2f0843e4facb47c0760d132/5C444DB3/t51.2885-15/e35/13437301_1803933409836114_1646291781_n.jpg", 
+      "likes": 119, 
+      "misalignment": true, 
+      "score": -4, 
+      "success": false, 
+      "text": "21/100 - The Vestige of Industrialization @andrew.kroll #nature #explorer #dslr #photographyadventures #photography #explore #stlouis #freeway #city #industrialization #mood #color #day #light #missouri #gatewayarch #panoramic", 
+      "text_keywords": [
+        "dslr", 
+        "light", 
+        "mood", 
+        "-", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography", 
+        "color", 
+        "city", 
+        "photographyadventures"
+      ]
+    }, 
+    "1290249685789706234": {
+      "comments": 1, 
+      "image_keywords": [
+        "light", 
+        "sky", 
+        "nature", 
+        "outdoors", 
+        "building", 
+        "city"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/20ee4a70a1379bb4c9f98b52a6ed8a67/5C48CC02/t51.2885-15/e35/13636181_395847197252522_860073892_n.jpg", 
+      "likes": 152, 
+      "misalignment": false, 
+      "score": -2, 
+      "success": false, 
+      "text": "22/100 - @andrew.kroll #nature #explorer #dslr #photographyadventures #photography #explore #seattle #washington #lake #dusk #evening #mood #color #dark #light", 
+      "text_keywords": [
+        "dslr", 
+        "light", 
+        "mood", 
+        "-", 
+        "seattle", 
+        "washington", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography", 
+        "color", 
+        "photographyadventures", 
+        "dark"
+      ]
+    }, 
+    "1301402797900543229": {
+      "comments": 7, 
+      "image_keywords": [
+        "traditional", 
+        "equipment", 
+        "monochrome", 
+        "sky", 
+        "fun", 
+        "tower", 
+        "tallest", 
+        "urban", 
+        "construction", 
+        "steel", 
+        "entertainment", 
+        "high", 
+        "no person", 
+        "outdoors", 
+        "building", 
+        "retro", 
+        "architecture", 
+        "vertical", 
+        "city", 
+        "contemporary"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/f1c561a8abfd15032f860bddd9e51e9d/5C5D50AC/t51.2885-15/e35/13732104_1195340733829876_97975240_n.jpg", 
+      "likes": 191, 
+      "misalignment": true, 
+      "score": 0, 
+      "success": true, 
+      "text": "23/100 - @andrew.kroll #nature #explorer #dslr #photographyadventures #photography #explore #mood #color #dark #light #clouds #washington #seattle #spaceneedle #architecture", 
+      "text_keywords": [
+        "dslr", 
+        "light", 
+        "spaceneedle", 
+        "mood", 
+        "-", 
+        "seattle", 
+        "washington", 
+        "andrew.kroll", 
+        "23/100", 
+        "explorer", 
+        "explore", 
+        "clouds", 
+        "nature", 
+        "photography", 
+        "architecture", 
+        "color", 
+        "photographyadventures", 
+        "dark"
+      ]
+    }, 
+    "1302378159287426449": {
+      "comments": 7, 
+      "image_keywords": [
+        "sky", 
+        "urban", 
+        "construction", 
+        "no person", 
+        "building", 
+        "architecture", 
+        "city"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/7aa17a37907421968c51e892b5194c71/5C4C8460/t51.2885-15/e35/13734404_1741457556102223_480154877_n.jpg", 
+      "likes": 231, 
+      "misalignment": true, 
+      "score": 3, 
+      "success": true, 
+      "text": "24/100 - @andrew.kroll #nature #explorer #dslr #photographyadventures #photography #explore #mood #color #dark #light #australia #brisbane #aussie #aov5k #bridge #river #city #view #clouds #pink", 
+      "text_keywords": [
+        "dslr", 
+        "light", 
+        "mood", 
+        "-", 
+        "andrew.kroll", 
+        "explorer", 
+        "explore", 
+        "clouds", 
+        "nature", 
+        "photography", 
+        "color", 
+        "city", 
+        "photographyadventures", 
+        "dark"
+      ]
+    }, 
+    "1480198193957577283": {
+      "comments": 5, 
+      "image_keywords": [], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/54abb8eb0cb0140b4557197936927c70/5C4644E0/t51.2885-15/e35/s1080x1080/17437481_1909197499351259_1116082380403113984_n.jpg", 
+      "likes": 195, 
+      "misalignment": true, 
+      "score": 1, 
+      "success": true, 
+      "text": "Me making rare appearance on here?\ud83e\udd14...only for stories that are worth it!\ud83d\ude1c Here is something that inspires me everyday to continue photography --- to preserve memories that have gone by too quickly for you to get a grasp of.\n\n#photo #photos #pic #pics #picture #photographer #pictures #snapshot #art #beautiful #instagood #picoftheday #photooftheday #color #all_shots #exposure #composition #focus #capture #moment #photoshoot #photodaily #photogram #CATSA #TSA #TSAStory #family", 
+      "text_keywords": [
+        "-", 
+        "photography", 
+        "color"
+      ]
+    }, 
+    "1485804124514977137": {
+      "comments": 48, 
+      "image_keywords": [], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/c772f847cb24473be2070588bd20fa97/5C44E87B/t51.2885-15/e35/17662623_1101662596646153_6553047124966113280_n.jpg", 
+      "likes": 340, 
+      "misalignment": true, 
+      "score": 7, 
+      "success": true, 
+      "text": "Five years ago today, I was a nobody that has swept 7000+ miles across the Pacific Ocean in pursuit of the \"freedom\" in education. With not much expectation in mind, I attempted to immerse myself into this novel environment. Yet, being an immigrant teenager is awkward. One wants to be cool just as much as one wants to shine in the classroom. Fortunately, I was able to find the STEM field that made the \u201cbubble\u201d separating me from the American mainstream start to disappear. Through Technology Student Association and my many other activities in STEM, I slowly gained confidence. Here, before I have noticed, I am proud to say that I will become a Golden Bear in this fall at the University of California, Berkeley. In the spirit of candor, I have to say that we Golden bears are definitely not the \u201cSoCal average bear!\u201d It has been a long journey; and I am really grateful and want to thank every single one of you who has provided precious support on this journey. Lastly, I look forward to commence a brand new chapter of my story in the Bay with my fellow Bears and the energetic California sunlight! \nP.S. @mrbrianhobo @armmankohli - Pls teach me how to survive senioritis and at Cal \ud83d\ude4f\ud83d\ude09 \u202a#MyCollegeLetter #BerkeleyBound #Berkeley2021 #Cal #UCB #GoldenBears #college #life #blessed \u202c#tbt #study #studying #studygram #nature #explorer #dslr #photographyadventures #photography #explore #mood #color #dark #light", 
+      "text_keywords": [
+        "dslr", 
+        "light", 
+        "mood", 
+        "-", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography", 
+        "color", 
+        "photographyadventures", 
+        "dark"
+      ]
+    }, 
+    "1506129455889032312": {
+      "comments": 0, 
+      "image_keywords": [
+        "no person", 
+        "retro"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/7e2a8e9f6829207221536ba4b1bf6529/5C5152AD/t51.2885-15/e35/s1080x1080/18251789_171466546712953_4411306921982689280_n.jpg", 
+      "likes": 255, 
+      "misalignment": false, 
+      "score": 4, 
+      "success": true, 
+      "text": "\u201cGood friends are like stars. You don\u2019t always see them, but you know they\u2019re always there.\u201d Thank you for accompanying throughout the past four splendid years. Moreover, I am fortunate enough to share the next four years with you two in the Bay (Sorry Sebastian\ud83d\ude09)! Looking forward to create more precious memories, if not, better ones.\ud83d\ude0a \u2014 \u201cSFBound Stays Strong!!!\u201d\n2*\ud83d\udc3b+\ud83c\udf32=\ud83d\udcaa \u202a#MyCollegeLetter #sanfrancisco #sf #friendship #bayarea #friends #graduation #college #life #blessed \u202c#tbt #study #studying #studygram #nature #explorer #dslr #photographyadventures #photography #explore #mood #color #dark #light", 
+      "text_keywords": [
+        "dslr", 
+        "light", 
+        "mood", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography", 
+        "color", 
+        "photographyadventures", 
+        "dark"
+      ]
+    }, 
+    "1510430437296848419": {
+      "comments": 0, 
+      "image_keywords": [], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/3069ae5c9e2909fa040603a599411b70/5C54D783/t51.2885-15/e35/s1080x1080/18444056_418044708578206_24099929081249792_n.jpg", 
+      "likes": 278, 
+      "misalignment": true, 
+      "score": 5, 
+      "success": true, 
+      "text": "\u201cThe more you praise and celebrate your life, the more there is in life to celebrate.\u201d \u2014 @oprah Winfrey\nThank you all for making my 18th birthday the most memorable one. I have to admit this was my first and best birthday party yet.\n\n#friends #friendship #birthday #party #great #fun #onmybirthday #superb #missmyfriends #lifestyle #gifts #iam18 #eighteen #18 #1999 #moments #memories #itsmybirthday #instabirthday #beautiful \u202a#life #blessed \u202c#tbt #photographyadventures #photography #explore #mood #color #dark #light", 
+      "text_keywords": [
+        "light", 
+        "mood", 
+        "fun", 
+        "explore", 
+        "photography", 
+        "color", 
+        "photographyadventures", 
+        "dark"
+      ]
+    }, 
+    "1512587581375071585": {
+      "comments": 12, 
+      "image_keywords": [
+        "light", 
+        "urban", 
+        "construction", 
+        "building", 
+        "architecture", 
+        "city"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/74882f5a7d59c58b5702ee0c9ee43cb8/5C43D1BC/t51.2885-15/e35/s1080x1080/18300025_2114372115456256_3247891347687866368_n.jpg", 
+      "likes": 310, 
+      "misalignment": true, 
+      "score": 6, 
+      "success": true, 
+      "text": "\u201c\u2026Small steps. That\u2019s all life is. Small steps that you take everyday, from spending hours in the lab, to spending a few minutes each day replying emails from PI\u2019s. So now when you look back down the road, it all adds up and you know you covered some distance.\u201d \u2014 Katie Kacvinsky\nMy first paid job in the Bay already? I guess I can finally pay for my own tuitions at Cal.\ud83d\ude05\nThat being said, I will be moving up to NorCal and working at UCSF/HHMI starting June 12th. All my NorCal bears, where y'all at? I love you guys already from the time we've spent together during Cal admit weekend.\ud83d\udc3b\ud83d\udc99\ud83d\udc9b\ud83d\udc99\ud83d\udc9b Hence, pls HMU if u would like to hangout during summer in the Bay!!\ud83d\udc4c #Research #UCSF #HHMI #SanFrancisco #SF #BayArea #life #blessed #Science #Biology  #JobSearch #JobHunt #JobOpening #Hiring #Resume #Jobs #Careers #Employment #HR #HumanResources #nature #explorer #dslr #photographyadventures #photography #explore #mood #color #dark #light", 
+      "text_keywords": [
+        "dslr", 
+        "light", 
+        "mood", 
+        "sky", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography", 
+        "color", 
+        "photographyadventures", 
+        "dark"
+      ]
+    }, 
+    "1519002732659667266": {
+      "comments": 2, 
+      "image_keywords": [], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/2f6ffe7a37d25eb6cd50914ae3a9de1b/5C60271E/t51.2885-15/e35/s1080x1080/18581156_1889001051323169_9155692500550156288_n.jpg", 
+      "likes": 337, 
+      "misalignment": true, 
+      "score": 7, 
+      "success": true, 
+      "text": "\u201cIt\u2019s interesting to leave a place, interesting even to think about it. Leaving reminds us of what we can part with and what we cannot, then offers us something new to look forward to, to dream about.\u201d \u2014 Richard Ford\nToday temporarily marks the end of my journey at Keck School of Medicine of USC. Yet, our parting does not mark the end to our friendship. I look forward to reunite with you guys among the research field in the near future if our biology fates do ever collide again.\nMost importantly, thank you so much for such an amazing year @USC. I have to admit I had a wonderful time researching for such institute that is so well positioned in terms of researchers, scientific resources, and labs. It has been my pleasure working with scientists of the highest caliber in the world. Farewell. Best Wishes.\ud83d\ude0a #Research #USC #PIBBS #Trojans #FightOn #SoCal #LA #LosAngeles #life #blessed #Science #Biology  #JobSearch #JobHunt #JobOpening #Hiring #Jobs #Careers #Employment #HR #nature #explorer #dslr #photographyadventures #photography #explore #mood #color #dark #light", 
+      "text_keywords": [
+        "dslr", 
+        "light", 
+        "mood", 
+        "high", 
+        "explorer", 
+        "explore", 
+        "nature", 
+        "photography", 
+        "color", 
+        "photographyadventures", 
+        "dark"
+      ]
+    }, 
+    "1521565164959535422": {
+      "comments": 2, 
+      "image_keywords": [
+        "city"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/e82adbdae57eb557e114995712d5d4ae/5C4FE2FE/t51.2885-15/e35/s1080x1080/18722727_302539706864847_5450167890642731008_n.jpg", 
+      "likes": 371, 
+      "misalignment": true, 
+      "score": 8, 
+      "success": true, 
+      "text": "\u201cEvery once in a while we need to strip and disconnect from the loud urgent things and connect to the quiet and most important.\u201d \u2014 Unknown\n\nWhile the Senior clock is ticking down, I almost can\u2019t believe that this is my first time to explore certain parts of Downtown Los Angeles even though I work about 10 minutes away on a daily basis. Thank you guys for helping me witness the beauty of life outside work!\n\n#rest #break #travel #summer #LosAngeles #Downtown #friends #friendship #great #fun #moments #memories #beautiful \u202a#life #blessed \u202c#PhotographyAdventures #photography #explore #mood #color", 
+      "text_keywords": [
+        "mood", 
+        "fun", 
+        "explore", 
+        "photography", 
+        "color"
+      ]
+    }, 
+    "1523546672255489886": {
+      "comments": 2, 
+      "image_keywords": [], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/f99ac99e0a69c59281cb6adb8c3a58d1/5C5ED1AD/t51.2885-15/e35/s1080x1080/18644878_283622202098318_2251500402925109248_n.jpg", 
+      "likes": 452, 
+      "misalignment": true, 
+      "score": 9, 
+      "success": true, 
+      "text": "\u201cNature is forever arriving and forever departing, forever approaching, forever vanishing; but in certain vanishings there seems to be ever the waving of a hand, in all our partings a promise of meetings farther along the road.\u201d \u2014 Richard Le Gallienne\n\nIs it a sign that I lost both my graduation tassel and ID card on the same night? \u00af\\_(\u30c4)_/\u00af \ud83e\udd14\n\nThat being said, thank you all for the precious memories throughout these past four years.\ud83d\udc99\ud83d\udc9b\ud83d\udc99 I am certain you will accomplish amazing things in the near future. Until our next meeting, farewell, for now\u2026\u263a\ufe0f #love #graduation #precious #ClassOf2017 #graduate #congratulations #2017 #summer #friends #friendship #moments #memories #beautiful \u202a#life #blessed \u202c#PhotographyAdventures #photography #explore #mood #color", 
+      "text_keywords": [
+        "mood", 
+        "explore", 
+        "photography", 
+        "color"
+      ]
+    }, 
+    "1533658984035507856": {
+      "comments": 0, 
+      "image_keywords": [
+        "outdoors"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/ee1531665460dbc6fd4cdae4c2d6e088/5C527841/t51.2885-15/e35/18947706_1698854960410873_5013388666035240960_n.jpg", 
+      "likes": 355, 
+      "misalignment": true, 
+      "score": 8, 
+      "success": true, 
+      "text": "\u201cYou get a strange feeling when you leave a place, like you\u2019ll not only miss the people you love, but you miss the person you are at this time and place because you\u2019ll never be this way ever again.\u201d \u2014 Azar Nafasi\n\nWow, time flies. Already, today marks my last day in this comfort zone. Yet, tomorrow will present me with the first day in a brand new community. Looking back, remember there was a time when all of us hoped to mature and grow up faster? Well, the truth is that we don\u2019t realize how much we have grown until we catch a glimpse of that one extra wrinkle on our parents\u2019 face or that archaic date on the bottom right corner of what we still call a \u201crecent\u201d photograph. While leaving a familiar place presents you with uncertainty now that everything is no longer within arm\u2019s reach, it simultaneously opens up a boundless chapter that allows you to take the risk to continue pursuing the life that you dream about. For now, greatest thanks and appreciations to Mom, Dad, Bro @jeffreysweezy, and all my friends out there that have shaped this comfort zone of mine while building up my courage to finally introduce myself to the infinite sky and simply \"explore\" with the wings that might have existed long time ago. Farewell~\ud83d\ude0a P.S. Happy belated National Best Friends Day as well!\ud83d\ude09 #love #family #precious #summer #friends #friendship #moments #memories #beautiful \u202a#life #blessed \u202c#PhotographyAdventures #photography #explore #mood #color \u202a#Cal \u202c#SanFrancisco #SF #BayArea", 
+      "text_keywords": [
+        "mood", 
+        "sky", 
+        "explore", 
+        "photography", 
+        "building", 
+        "color"
+      ]
+    }, 
+    "1552021276380640024": {
+      "comments": 5, 
+      "image_keywords": [
+        "sky", 
+        "nature", 
+        "outdoors", 
+        "architecture"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/d6796a2bfcfc949f3277e27138d96a8b/5C593458/t51.2885-15/e35/14499019_1713667395604552_7405961968491692032_n.jpg", 
+      "likes": 366, 
+      "misalignment": false, 
+      "score": 8, 
+      "success": true, 
+      "text": "\u201cIt\u2019s a funny thing coming home. Nothing changes. Everything looks the same, feels the same, even smells the same. You realize what\u2019s changed is you.\u201d \u2014 F. Scott Fitzgerald\n\nWell, there goes my first time returning back to SoCal. People once said first time is usually the most difficult, and they were probably right. @jeffreysweezy Till next time\ud83d\ude42~ Meanwhile, Happy 241st Birthday, America!\n\n#love #family #precious #return #home #brothers #SanDiego #fourthofjuly #independenceday #unitedstates #moments #memories #beautiful \u202a#life #blessed \u202c#PhotographyAdventures #photography #explore #mood #color", 
+      "text_keywords": [
+        "mood", 
+        "fun", 
+        "explore", 
+        "photography", 
+        "color"
+      ]
+    }, 
+    "1560573598241315132": {
+      "comments": 12, 
+      "image_keywords": [], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/29da1a1a647cd4d632f4f9aacc849e43/5C444D9C/t51.2885-15/e35/19985859_760394180810065_8243201706100260864_n.jpg", 
+      "likes": 399, 
+      "misalignment": false, 
+      "score": 9, 
+      "success": true, 
+      "text": "\u201cSometimes you will never know the value of a moment until it becomes a memory.\u201d \u2014 Dr. Suess\n\nDid I just travel 1300+ miles to see a friend? Yes.\n\nWas it worth it? You bet!\ud83d\ude0f @ You-Know-Who, Salamat for the best weekend in Seattle! \ud83d\udc99\ud83d\udc9b\ud83d\udc99\ud83c\udfbc #Seattle #Washington #NoRegrats #summer #weekend #friendship #memories \u202a#life #blessed \u202c#photography #explore #mood #color \u202a#Cal\u202c", 
+      "text_keywords": [
+        "mood", 
+        "-", 
+        "explore", 
+        "photography", 
+        "color"
+      ]
+    }, 
+    "1582941674395828753": {
+      "comments": 0, 
+      "image_keywords": [
+        "fun"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/29fd6b735559bf8f3b0b633a7270847b/5C4A8894/t51.2885-15/e35/20838839_1527182117341583_6947961254640091136_n.jpg", 
+      "likes": 383, 
+      "misalignment": true, 
+      "score": 8, 
+      "success": true, 
+      "text": "Team Narwhals, we are the best team in the league!! \ud83d\udcaa @cnradvising \nWe don't take L's\ud83d\ude45\nRandom Cal Student @Dom: EECS - Chem P\n\n#berkeleycnr #mycnrgbo17\u202a #BerkeleyBound #Berkeley2021 #Cal #GoBears #college \u202c#nature #photography #explore", 
+      "text_keywords": [
+        "-", 
+        "explore", 
+        "nature", 
+        "photography"
+      ]
+    }, 
+    "1602676083524906175": {
+      "comments": 13, 
+      "image_keywords": [], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/97c5d32ef192725db5fd491b75675331/5C40206A/t51.2885-15/e35/21689025_355704811521259_6067296769148977152_n.jpg", 
+      "likes": 443, 
+      "misalignment": false, 
+      "score": 9, 
+      "success": true, 
+      "text": "\u201cThe crest and croning of all good, Life\u2019s final star, is brotherhood.\u201d \u2014 Edwin Markham\n\nCopping the first home dub of the year! \ud83d\udcaa\n\nWeber State\ud83d\udc31 20 : 33 California\ud83d\udc3b\n\nGo Bears! \ud83d\udc99\ud83d\udc9b\ud83d\udc99 #ThisIsBearTerritory #pac12 \u202a#WEBERvsCal #Berkeley #Cal #GoBears #college \u202c#summer #photography #explore", 
+      "text_keywords": [
+        "explore", 
+        "photography"
+      ]
+    }, 
+    "1677796167477628932": {
+      "comments": 3, 
+      "image_keywords": [
+        "light", 
+        "fun"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/50443e2ce34cb8f890f66fb09c89a4d9/5C54E65A/t51.2885-15/e35/25024575_469816840081227_242717428054753280_n.jpg", 
+      "likes": 330, 
+      "misalignment": true, 
+      "score": 7, 
+      "success": true, 
+      "text": "\u201cChristmas\u00a0waves a magic wand over this world, and behold, everything is softer and more beautiful.\u201d \u2014 Norman Vincent Peale\n\nWishing you and your family a Merry Christmas!\ud83c\udf81\ud83c\udf84 Happy Holidays!\n\n#christmas #holiday #season #light #festival #photography #explore", 
+      "text_keywords": [
+        "light", 
+        "explore", 
+        "photography"
+      ]
+    }, 
+    "1683145401563377355": {
+      "comments": 4, 
+      "image_keywords": [
+        "outdoors"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/1ac4f398c09590c2b0284c1254bc25b9/5C57798D/t51.2885-15/e35/25039274_1686515094741291_5383352261239898112_n.jpg", 
+      "likes": 354, 
+      "misalignment": true, 
+      "score": 8, 
+      "success": true, 
+      "text": "\u201cToday, is the first blank page of a 365-page book. Write a good one.\u201d \u2014 Brad Paisley\n\nWish you a successful and glorious happy new year!\nSweatshirt: @vineet71 \n#newyear #snow #light #nature #photography #explore #2018", 
+      "text_keywords": [
+        "light", 
+        "-", 
+        "explore", 
+        "nature", 
+        "photography"
+      ]
+    }, 
+    "1688077863632707375": {
+      "comments": 5, 
+      "image_keywords": [
+        "light", 
+        "color", 
+        "dark"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/5657f0ac4bfe5764d6f7a2cae68538a3/5C5DAC76/t51.2885-15/e35/26065321_112342336238401_8642263661785645056_n.jpg", 
+      "likes": 323, 
+      "misalignment": true, 
+      "score": 7, 
+      "success": true, 
+      "text": "Portrait 001\n#portrait #photoshoot #fairylights #light #nature #photography #explore", 
+      "text_keywords": [
+        "light", 
+        "explore", 
+        "nature", 
+        "photography"
+      ]
+    }, 
+    "1691678407009986474": {
+      "comments": 1, 
+      "image_keywords": [
+        "outdoors"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/1eb62f8307a070508f356a4438677df2/5C5A57B0/t51.2885-15/e35/26154053_167513350525497_2380997094283411456_n.jpg", 
+      "likes": 320, 
+      "misalignment": true, 
+      "score": 7, 
+      "success": true, 
+      "text": "Portrait 002\n#portrait #photoshoot #beach #california #sunset #photography #explore", 
+      "text_keywords": [
+        "explore", 
+        "photography"
+      ]
+    }, 
+    "1702522643512000979": {
+      "comments": 5, 
+      "image_keywords": [
+        "nature", 
+        "outdoors"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/c2b7e087eb20a847a4f4e410c45f03d9/5C5FCF35/t51.2885-15/e35/27574205_168987900544923_6366270580789870592_n.jpg", 
+      "likes": 361, 
+      "misalignment": true, 
+      "score": 8, 
+      "success": true, 
+      "text": "Portrait 003\n#explore #photography #nature #portrait #sunset #garden #light", 
+      "text_keywords": [
+        "light", 
+        "explore", 
+        "nature", 
+        "photography"
+      ]
+    }, 
+    "1837307142558741571": {
+      "comments": 3, 
+      "image_keywords": [
+        "sky", 
+        "nature", 
+        "outdoors"
+      ], 
+      "image_url": "https://scontent-atl3-1.cdninstagram.com/vp/1cc6b4761367d9503ffc4b1c796a4932/5C511CC3/t51.2885-15/e35/37355722_666096330422763_3435465510240649216_n.jpg", 
+      "likes": 296, 
+      "misalignment": true, 
+      "score": 6, 
+      "success": true, 
+      "text": "Land of the Rising Sun\n#family #summer #japan #nature #portrait", 
+      "text_keywords": [
+        "nature"
+      ]
+    }
+  }, 
+  "trending_hashtag": [
+    "explorer", 
+    "dslr", 
+    "explore", 
+    "clouds", 
+    "mood", 
+    "light", 
+    "nature", 
+    "color", 
+    "photography", 
+    "seattle", 
+    "spaceneedle", 
+    "architecture", 
+    "-", 
+    "washington", 
+    "andrew.kroll", 
+    "photographyadventures", 
+    "dark", 
+    "23/100"
+  ], 
+  "trending_hashtag_image": [
+    "tower", 
+    "traditional", 
+    "equipment", 
+    "no person", 
+    "sky", 
+    "monochrome", 
+    "vertical", 
+    "tallest", 
+    "high", 
+    "outdoors", 
+    "building", 
+    "urban", 
+    "retro", 
+    "architecture", 
+    "fun", 
+    "steel", 
+    "city", 
+    "contemporary", 
+    "entertainment", 
+    "construction"
+  ]
+}
